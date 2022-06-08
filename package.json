@@ -6,9 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "dotenv": "^16.0.1",
+    "follow-redirects": "^1.15.1",
     "next": "latest",
+    "node-fetch": "^3.2.5",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "twitter-api-v2": "^1.12.2"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
