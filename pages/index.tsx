@@ -23,6 +23,7 @@ const Home: NextPage = () => {
         <meta property="og:image" content="https://www.depth.wiki/meta.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:site" content="@eiioth" />
         <meta property="twitter:url" content="https://depth.wiki/" />
         <meta property="twitter:title" content="The Depths of Wikipedia" />
         <meta
