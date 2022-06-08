@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      gerogia: ["Georgia", "serif"],
+      georgia: ["Georgia", "serif"],
     },
   },
   plugins: [],

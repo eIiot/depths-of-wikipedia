@@ -40,7 +40,7 @@ const Home: NextPage = () => {
           src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg  "
           alt="Wikipedia logo"
         />
-        <h1 className="text-3xl font-bold font-gerogia ">
+        <h1 className="text-3xl font-bold font-georgia ">
           The Depths of Wikipedia
         </h1>
         <p className="text-xl">
