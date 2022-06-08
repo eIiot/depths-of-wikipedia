@@ -28,15 +28,27 @@ const Home: NextPage = () => {
           </a>
         </Link>
 
-        <p className="text-sm absolute bottom-0 p-2">
-          Created by{" "}
-          <a
-            href="
+        <p className="text-sm absolute bottom-0 p-2 w-1/2 flex justify-between">
+          <span>
+            Created by{" "}
+            <a
+              href="
           https://twitter.com/eiioth"
-            className="text-blue-500"
-          >
-            @eiioth
-          </a>
+              className="text-blue-500"
+            >
+              @eiioth
+            </a>
+          </span>
+          <span>
+            Links from{" "}
+            <a
+              href="
+          https://twitter.com/depthsofwiki"
+              className="text-blue-500"
+            >
+              @depthsofwiki
+            </a>
+          </span>
         </p>
       </main>
     </>
