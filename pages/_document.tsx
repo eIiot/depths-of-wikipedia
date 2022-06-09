@@ -7,6 +7,7 @@ export default function Document() {
         <title>The Depths of Wikipedia</title>
         <meta name="title" content="The Depths of Wikipedia" />
         <meta name="description" content="Explore the depths of Wikipedia" />
+        <link rel="icon" href="https://www.depth.wiki/favicon.svg" />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.depth.wiki" />
